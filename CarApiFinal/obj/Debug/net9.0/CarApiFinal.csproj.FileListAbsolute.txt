@@ -32,3 +32,5 @@ C:\Projects\3175 Dist Apps\Final\CarApiFinal\obj\Debug\net9.0\refint\CarApiFinal
 C:\Projects\3175 Dist Apps\Final\CarApiFinal\obj\Debug\net9.0\CarApiFinal.pdb
 C:\Projects\3175 Dist Apps\Final\CarApiFinal\obj\Debug\net9.0\CarApiFinal.genruntimeconfig.cache
 C:\Projects\3175 Dist Apps\Final\CarApiFinal\obj\Debug\net9.0\ref\CarApiFinal.dll
+C:\Projects\3175 Dist Apps\Final\CarApiFinal\obj\Debug\net9.0\CarApiFinal.sourcelink.json
+C:\Projects\3175 Dist Apps\Final\CarApiFinal\bin\Debug\net9.0\Data\cars.json
