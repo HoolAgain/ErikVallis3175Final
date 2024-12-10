@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZMAjhVhK6zo=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\3175 Dist Apps\\Final\\CarApiFinal\\CarApiFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\winni\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\winni\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\winni\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

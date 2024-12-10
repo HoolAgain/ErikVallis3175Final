@@ -1,0 +1,14 @@
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\bin\Debug\net9.0\ConsumeCarApi.exe
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\bin\Debug\net9.0\ConsumeCarApi.deps.json
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\bin\Debug\net9.0\ConsumeCarApi.runtimeconfig.json
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\bin\Debug\net9.0\ConsumeCarApi.dll
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\bin\Debug\net9.0\ConsumeCarApi.pdb
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.AssemblyInfoInputs.cache
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.AssemblyInfo.cs
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.csproj.CoreCompileInputs.cache
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.dll
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\refint\ConsumeCarApi.dll
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.pdb
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.genruntimeconfig.cache
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ref\ConsumeCarApi.dll
