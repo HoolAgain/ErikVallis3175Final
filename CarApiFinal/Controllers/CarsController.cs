@@ -22,6 +22,21 @@ namespace CarApiFinal.Controllers
             return Ok(cars);
         }
 
+        [HttpGet("{id:int}")]
+        public IActionResult GetCarById(int id)
+        {
+            var cars = _carService.GetCars();
+            var car = cars.FirstOrDefault(c => c.Id == id);
+
+            if (car == null)
+            {
+                return NotFound($"Car with ID {id} not found.");
+            }
+
+            return Ok(car);
+        }
+
+
         [HttpPost]
         public IActionResult CreateCar([FromBody] Car newCar)
         {
