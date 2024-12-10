@@ -15,6 +15,13 @@ namespace CarApiFinal.Controllers
             _carService = carService;
         }
 
+        [HttpGet]
+        public IActionResult GetAllCars()
+        {
+            var cars = _carService.GetCars();
+            return Ok(cars);
+        }
+
         [HttpPost]
         public IActionResult CreateCar([FromBody] Car newCar)
         {
