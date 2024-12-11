@@ -94,7 +94,5 @@ namespace CarApiFinal.Controllers
 
             return Ok(existingCar);
         }
-
-
     }
 }

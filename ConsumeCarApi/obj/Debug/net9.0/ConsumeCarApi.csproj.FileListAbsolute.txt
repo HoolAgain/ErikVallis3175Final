@@ -12,3 +12,7 @@ C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\refint\ConsumeCa
 C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.pdb
 C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.genruntimeconfig.cache
 C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ref\ConsumeCarApi.dll
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.sourcelink.json
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeCarApi.csproj.AssemblyReference.cache
+C:\Projects\3175 Dist Apps\Final\ConsumeCarApi\obj\Debug\net9.0\ConsumeC.F326F092.Up2Date

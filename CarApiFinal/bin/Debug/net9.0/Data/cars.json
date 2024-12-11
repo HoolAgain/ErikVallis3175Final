@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "Id": 1,
+    "Make": "Mine",
+    "Model": "NotYours",
+    "Year": "1990"
+  }
+]
