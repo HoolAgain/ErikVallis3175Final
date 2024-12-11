@@ -52,5 +52,23 @@ namespace CarApiFinal.Controllers
 
             return CreatedAtAction(nameof(CreateCar), new { id = newCar.Id }, newCar);
         }
+
+        [HttpDelete("{id:int}")]
+        public IActionResult DeleteCarById(int id)
+        {
+            var cars = _carService.GetCars();
+            var car = cars.FirstOrDefault(c => c.Id == id);
+
+            if (car == null)
+            {
+                return NotFound($"Car with ID {id} not found.");
+            }
+
+            cars.Remove(car);
+            _carService.SaveCars(cars);
+
+            return NoContent();
+        }
+
     }
 }
