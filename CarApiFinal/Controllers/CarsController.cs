@@ -70,5 +70,31 @@ namespace CarApiFinal.Controllers
             return NoContent();
         }
 
+        [HttpPut("{id:int}")]
+        public IActionResult UpdateCarById(int id, [FromBody] Car updatedCar)
+        {
+            if (updatedCar == null)
+            {
+                return BadRequest("Car data is invalid.");
+            }
+
+            var cars = _carService.GetCars();
+            var existingCar = cars.FirstOrDefault(c => c.Id == id);
+
+            if (existingCar == null)
+            {
+                return NotFound($"Car with ID {id} not found.");
+            }
+
+            existingCar.Make = updatedCar.Make;
+            existingCar.Model = updatedCar.Model;
+            existingCar.Year = updatedCar.Year;
+
+            _carService.SaveCars(cars);
+
+            return Ok(existingCar);
+        }
+
+
     }
 }
